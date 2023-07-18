@@ -1,0 +1,13 @@
+- cài đặt
+
++ python
+
++ golang
+
+- chạy
+
++ python hulk.py <url>
+
++ go run hulk.go -site <url>
+
+
